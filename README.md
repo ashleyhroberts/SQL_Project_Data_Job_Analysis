@@ -52,7 +52,7 @@ Here's the breakdown of the top 10 paying data analyst jobs in 2023:
 - **Diverse Employers:** Companies like Mantys, Meta, AT&T, Pinterest, UCLA Healthcareers, and SmartAsset are offering these lucrative positions, highlighting the demand for data analysts across diverse industries.
 - **Job Titles:** The roles include a variety of titles such as Data Analyst, Director of Analytics, Associate Director-Data Insights, Data Analyst-Marketing, and ERM Data Analyst, showcasing a range of positions from entry-level to senior leadership in data analysis.
 
-![Top Paying Roles](sql_project\assets\1_Top_10_Paying_Jobs_Chart.png)
+![Top Paying Roles](sql_project/assets/1_Top_10_Paying_Jobs_Chart.png)
 *Excel bar graph visualizing my SQL query results*
 
 ### 2. <u>Skills</u> For <u>Top Paying</u> Jobs
