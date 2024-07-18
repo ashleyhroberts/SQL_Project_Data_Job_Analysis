@@ -218,7 +218,7 @@ ORDER BY
 ![Most In-Demand Skills and Their Salaries](sql_project/assets/5_Hottest_Skills_Salaries.png)
 *Excel chart visualizing SQL query results sorted by top 20 skill count in 2023 job postings.  (Anomoly note: In the dataset "sas" appears as two different skill ids.)*
 
-💰**If earning the highest salary is the prioirty, acquire the niche skills shown in the below graph, but note that there is much lower demand for them per the 2023 job postings:**
+💰**If earning the highest salary is the priority, acquire the niche skills shown in the below graph, but note that there is much lower demand for them per the 2023 job postings:**
 
 ![Highest Salaries and Associated Skills](sql_project/assets/5_Highest_Salaries_Skills.png)
 *Excel chart visualizing SQL query results sorted by salary showing the top 20 salaries.  (Anomoly note: In the dataset "mongodb" appears as two different skill ids.)*
