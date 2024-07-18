@@ -88,7 +88,7 @@ Here's the breakdown of the most demanded skills for the top 10 highest paying d
 - **Top 3:** SQL, Python, Tableau with 8, 7 and 6 instances respectively
 - **Varied Technical Skills** like r, pandas, azure and good ol' excel are sought after and highly compensated
     
-![Top Paying Skills](sql_project\assets\2_Top_Paying_Skills_Chart.png)
+![Top Paying Skills](sql_project/assets/2_Top_Paying_Skills_Chart.png)
 *Excel bar graph visualizing my SQL query results*
 
 ### 3. Most <u>In-Demand Skills</u> for Data Analysts
@@ -215,11 +215,11 @@ ORDER BY
 
 💼 If landing a job in data analysis is the priority, focus on the skills in the below graph which shows the top 20 skills appearing in job postings:
 
-![Most In-Demand Skills and Their Salaries](sql_project\assets\5_Hottest_Skills_Salaries.png)
+![Most In-Demand Skills and Their Salaries](sql_project/assets/5_Hottest_Skills_Salaries.png)
 *Excel chart visualizing SQL query results sorted by top 20 skill count in 2023 job postings*
 
 💰If earning the highest salary is the prioirty, acquire the niche skills shown in the below graph, but note that there is much lower demand for them per the 2023 job postings:
-![Highest Salaries and Associated Skills](sql_project\assets\5_Highest_Salaries_Skills.png)
+![Highest Salaries and Associated Skills](sql_project/assets/5_Highest_Salaries_Skills.png)
 *Excel chart visualizing SQL query results sorted by salary showing the top 20 salaries.*
 
 # What I Learned
