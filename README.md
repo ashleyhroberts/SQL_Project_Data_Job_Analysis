@@ -216,12 +216,12 @@ ORDER BY
 💼 **If landing a job in data analysis is the priority, focus on the skills in the below graph which shows the top 20 skills appearing in job postings:**
 
 ![Most In-Demand Skills and Their Salaries](sql_project/assets/5_Hottest_Skills_Salaries.png)
-*Excel chart visualizing SQL query results sorted by top 20 skill count in 2023 job postings*
+*Excel chart visualizing SQL query results sorted by top 20 skill count in 2023 job postings.  (Anomoly note: In the dataset "sas" appears as two different skill ids.)*
 
 💰**If earning the highest salary is the prioirty, acquire the niche skills shown in the below graph, but note that there is much lower demand for them per the 2023 job postings:**
 
 ![Highest Salaries and Associated Skills](sql_project/assets/5_Highest_Salaries_Skills.png)
-*Excel chart visualizing SQL query results sorted by salary showing the top 20 salaries.*
+*Excel chart visualizing SQL query results sorted by salary showing the top 20 salaries.  (Anomoly note: In the dataset "mongodb" appears as two different skill ids.)*
 
 # What I Learned
 I've learned so much working through this project, including:
