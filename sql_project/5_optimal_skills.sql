@@ -72,7 +72,7 @@ HAVING
     COUNT(skills_job_dim.job_id) >10
 ORDER BY 
     demand_count DESC,
-    avg_salary DESC
+    avg_salary DESC;
 
 /* Core Skills: Master SQL, Excel, and Python for a strong foundation in data manipulation and analysis.
 Visualization Tools: Learn Tableau and Power BI to effectively present data insights.

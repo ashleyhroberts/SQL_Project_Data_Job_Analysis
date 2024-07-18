@@ -25,5 +25,8 @@ ORDER BY
     salary_year_avg DESC
 LIMIT 10;
 
-
+/* Salary Range: Salaries for these data analyst roles range significantly from $184,000 to $650,000, indicating varied compensation based on experience, role, and company.
+Employers: High-profile employers like Mantys, Meta, AT&T, Pinterest, Uclahealthcareers, and SmartAsset are offering these lucrative positions, highlighting the demand for data analysts across diverse industries.
+Job Titles: The roles include a variety of titles such as Data Analyst, Director of Analytics, Associate Director- Data Insights, Data Analyst, Marketing, Principal Data Analyst, and ERM Data Analyst, showcasing a range of positions from entry-level to senior leadership in data analysis.
+*/
 

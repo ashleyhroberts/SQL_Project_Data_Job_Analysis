@@ -23,9 +23,9 @@ WHERE
     job_title_short = 'Data Analyst' AND
     salary_year_avg IS NOT NULL AND
     job_location = 'Anywhere' AND
-    (job_title LIKE '%Entry%' OR job_title LIKE '%Junior%')
+    (job_title LIKE '%Entry%' OR job_title LIKE '%Junior%' OR job_title LIKE '%Beginner%')
 ORDER BY
-    salary_year_avg DESC
+    salary_year_avg DESC;
 
 --Query to find out that the $650K job has no skill associated
 SELECT
@@ -45,4 +45,4 @@ LEFT JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
  WHERE
     job_title_short = 'Data Analyst' AND
     job_location = 'Anywhere' AND
-    salary_year_avg = '650000'
+    salary_year_avg = '650000';
