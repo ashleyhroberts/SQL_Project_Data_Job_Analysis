@@ -7,7 +7,7 @@ If you like to read SQL queries, I've got you covered!😉  Check out this link:
 # Background
 The data for this project comes from Luke Barousse's [SQL course](https://www.lukebarousse.com/sql).  It's packed with insights on job titles, locations, companies, salaries, and required skills.
 
-My purpose in doing this project was to advance my SQL skills while querying data of interest to anyone looking to optimize their skillset for the data analyst job market.
+My goal in doing this project was to advance my SQL skills while querying data of interest to anyone looking to optimize their skillset for the data analyst job market.
 
 ### The questions I wanted to answer through my SQL queries were:
 1. What are the top-paying data analyst jobs?
@@ -18,7 +18,7 @@ My purpose in doing this project was to advance my SQL skills while querying dat
 # Tools I Used
 For my exploration of the data analyst job market, I strengthened my skills in some tools and learned brand new ones in others:
 - **SQL:** The backbone of my analysis, allowing me to query the database and unearth critical insights.
-- **PostreSQL:** The chosen database management system, ideal for handling the job posting data.
+- **PostgreSQL:** The chosen database management system, ideal for handling the job posting data.
 - **Visual Studio Code:** My new go-to for database management and executing SQL queries.
 - **Git and GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
 - **Excel:** Useful for its chart functionality to visualize query results for better understanding.
@@ -86,7 +86,7 @@ ORDER BY
 ```
 Here's the breakdown of the most demanded skills for the top 10 highest paying data analyst jobs in 2023:
 - **Top 3:** SQL, Python, Tableau with 8, 7 and 6 instances respectively
-- **Varied Technical Skills** like r, pandas, azure and good ol' excel are sought after and highly compensated
+- **Varied Technical Skills** like R, Pandas, Azure and good ol' Excel are sought after and highly compensated
     
 ![Top Paying Skills](sql_project/assets/2_Top_Paying_Skills_Chart.png)
 *Excel bar graph visualizing my SQL query results*
@@ -213,22 +213,23 @@ ORDER BY
 - **Statistical and Big Data Analysis:** Acquire skills in R, SAS, Spark, and TensorFlow for staistical analysis and machine learning.
 - **Cloud Computing and Collaboration:** Gain proficiency in AWS, Azure, Git, and Confluence for cloud data management and effective teamwork.
 
-💼 If landing a job in data analysis is the priority, focus on the skills in the below graph which shows the top 20 skills appearing in job postings:
+💼 **If landing a job in data analysis is the priority, focus on the skills in the below graph which shows the top 20 skills appearing in job postings:**
 
 ![Most In-Demand Skills and Their Salaries](sql_project/assets/5_Hottest_Skills_Salaries.png)
 *Excel chart visualizing SQL query results sorted by top 20 skill count in 2023 job postings*
 
-💰If earning the highest salary is the prioirty, acquire the niche skills shown in the below graph, but note that there is much lower demand for them per the 2023 job postings:
+💰**If earning the highest salary is the prioirty, acquire the niche skills shown in the below graph, but note that there is much lower demand for them per the 2023 job postings:**
+
 ![Highest Salaries and Associated Skills](sql_project/assets/5_Highest_Salaries_Skills.png)
 *Excel chart visualizing SQL query results sorted by salary showing the top 20 salaries.*
 
 # What I Learned
-I've learned so much working through this project including:
+I've learned so much working through this project, including:
 
 - 📊 **Advanced SQL Skills:** Used complex queries, table merging, WITH clauses for temporary table operations, data aggregation functions like COUNT() and AVG() with GROUP BY clauses.  Gained copious experience trouble-shooting said complex queries. 😊
 - 💡 **Analytical Skills:** Improved my ability to answer questions with the right SQL queries to provide actionable insights.
-- 🛠️ **GitHub:** first-ever use of GitHub as a repository for my code and project write-up
-- 💻**Visual Studio Code:** Debut user of this code editor to manage my PostreSQL queries and GitHub commits
+- 🛠️ **GitHub:** newcomer to GitHub as a repository for my code and project write-up
+- 💻**Visual Studio Code:** new user of this handy code editor to manage my PostgreSQL queries and GitHub commits
 - 🖊️ **Markdown**: First time interacting with Markdown to create this ReadMe file that I hope has been easy to digest.
 # Conclusions
 1. **Top-Paying Data Analyst Jobs:** There's a wide variety in salaries, job titles, and industries needing data analysts.
